@@ -1,4 +1,4 @@
-var cloner = function(source) {
+var easyCloner = function(source) {
 
   var
     queue = [],
