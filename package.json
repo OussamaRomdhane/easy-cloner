@@ -1,0 +1,22 @@
+{
+  "name": "easy-cloner",
+  "version": "0.1.0",
+  "description": "Straight forward object cloner with circular support",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Oussama Romdhane <oussama.igasho@gmail.com> (http://oussama.online)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OussamaRomdhane/easy-cloner.git"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-modify-file": "^0.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
