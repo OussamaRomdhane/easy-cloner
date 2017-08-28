@@ -1,4 +1,4 @@
-var cloner = module.exports = function(source) {
+var easyCloner = module.exports = function(source) {
 
   var
     queue = [],
